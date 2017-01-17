@@ -36,15 +36,15 @@ $blue: #0076df !default;
 // $red: #f95020 !default;
 $red: #A62F2B !default;
 $green: #00cf26 !default;
-$yellow: #efcc00 !default;
+$yellow: #FFC700 !default;
 $orange: #ffcc22 !default;
 $purple: #f92080 !default;
-$dark-blue: #00369f !default;
+$dark-blue: #000A66 !default;
 $green: #00ab37 !default;
 $dark-green: #009f06 !default;
 $light-pink: #ffdddd !default;
 $light-green: #ddffdd !default;
-$dark-gray: #333 !default;
+$dark-gray: #3f3c3d !default;
 $mid-gray: #777 !default;
 $light-gray: #ccc !default;
 $lighter-gray: #eee !default;
@@ -54,8 +54,8 @@ $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
 // Links
-$link-color: $red;
-$link-hover-color: darken($blue, 40%);
+$link-color: darken($yellow, 20%);
+$link-hover-color: $yellow;
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';

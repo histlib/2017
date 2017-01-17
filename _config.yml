@@ -1,10 +1,9 @@
 # Site settings
-title:       ds@swat
-email:       digitalscholarship@swarthmore.edu
-author:      Nabil Kashyap
-description: "Collaborative digital projects for the Swarthmore community and beyond"
-baseurl:     ""
-url:         "http://ds.swarthmore.edu"
+title:       Keystone DH 2017
+email:       contact@keystonedh.network
+description: "2017 Keystone Digital Humanities Conference will be held at the Chemical Heritage Foundation, July 12-14, 2017."
+baseurl:     "/2017"
+url:         "http://keystonedh.network"
 date_format: "%b %-d, %Y"
 
 # Prose settings
@@ -54,7 +53,7 @@ bing_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -71,10 +70,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: keystonedh
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: keystonedh
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -86,10 +85,10 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
@@ -106,13 +105,7 @@ text:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
     twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
     linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
   post:
     updated:        'Updated'
     minute_read:    'minute read'

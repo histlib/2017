@@ -1,8 +1,15 @@
 <header class="site-header px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ "" | absolute_url }}" class="site-title animated"><span id="{{ page.id }}">{{ site.title }}</span></a>
+      <a href="{{ "" | absolute_url }}" class="site-title animated">
 
+      <span id="{{ page.id }}">
+
+      <img src="{{ "media/keystonedh-keystone.svg" | absolute_url }}" height="72px"/>
+      <img src="{{ "media/keystonedh-text.svg" | absolute_url }}" height="56px"/>
+      <img src="{{ "media/keystonedh-2017.svg" | absolute_url }}" height="56x"/>
+
+      </span></a>
       <nav class="site-nav">
         {% include navigation.html %}
       </nav>

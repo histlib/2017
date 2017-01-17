@@ -5,75 +5,68 @@ id: home
 
 <a href="" id="nav-arrow">^</a>
 
-<div class="panel" id="definition">
+# July 12-14, 2017 <br/> @ Chemical Heritage Foundation
 
-<p>Digital Scholarship at Swarthmore encompasses a growing range of collaborative projects that share a set of basic commitments. To range freely across disciplines and across campus resources. To connect our community&mdash;faculty, students and staff&mdash;as well as communities beyond Swarthmore. To make critical use of digital networked technologies to engage and document scholarship as a process.
-<br/><br/>
-Interested? <a class="email" href="mailto:digitalscholarship@swarthmore.edu">.su tcatnoC</a>
-</p>
+<br/>
 
-<ul id="services">
-<li><a href="#consult">
-        <h2>consult</h2>
-    </a></li>
-<li><a href="#connect">
-        <h2>connect</h2>
-    </a></li>
-<li><a href="#instruct">
-        <h2>instruct</h2>
-    </a></li>
-<li><a href="#manage">
-        <h2>manage</h2>
-    </a></li>
-<li><a href="#build">
-        <h2>build</h2>
-    </a></li>
-</ul>
-</div>
+From Egypt marching, equalled with one stroke
+Both her first-born and all her bleating gods.
+Belial came last; than whom a Spirit more lewd
+Fell not from Heaven, or more gross to love
+Vice for itself.  To him no temple stood
+Or altar smoked; yet who more oft than he
+In temples and at altars, when the priest
+Turns atheist, as did Eli's sons, who filled
+With lust and violence the house of God?
+In courts and palaces he also reigns,
+And in luxurious cities, where the noise
+Of riot ascends above their loftiest towers,
+And injury and outrage; and, when night
+Darkens the streets, then wander forth the sons
+Of Belial, flown with insolence and wine.
+Witness the streets of Sodom, and that night
+In Gibeah, when the hospitable door
+Exposed a matron, to avoid worse rape.
+  These were the prime in order and in might:
+The rest were long to tell; though far renowned
+Th' Ionian gods--of Javan's issue held
+Gods, yet confessed later than Heaven and Earth,
+Their boasted parents;--Titan, Heaven's first-born,
+With his enormous brood, and birthright seized
+By younger Saturn: he from mightier Jove,
+His own and Rhea's son, like measure found;
+So Jove usurping reigned.  These, first in Crete
+And Ida known, thence on the snowy top
+Of cold Olympus ruled the middle air,
+Their highest heaven; or on the Delphian cliff,
+Or in Dodona, and through all the bounds
+Of Doric land; or who with Saturn old
+Fled over Adria to th' Hesperian fields,
+And o'er the Celtic roamed the utmost Isles.
+  All these and more came flocking; but with looks
+Downcast and damp; yet such wherein appeared
+Obscure some glimpse of joy to have found their Chief
+Not in despair, to have found themselves not lost
+In loss itself; which on his countenance cast
+Like doubtful hue.  But he, his wonted pride
+Soon recollecting, with high words, that bore
+Semblance of worth, not substance, gently raised
+Their fainting courage, and dispelled their fears.
+Then straight commands that, at the warlike sound
+Of trumpets loud and clarions, be upreared
+His mighty standard.  That proud honour claimed
+Azazel as his right, a Cherub tall:
+Who forthwith from the glittering staff unfurled
+Th' imperial ensign; which, full high advanced,
+Shone like a meteor streaming to the wind,
+With gems and golden lustre rich emblazed,
+Seraphic arms and trophies; all the while
+Sonorous metal blowing martial sounds:
+At which the universal host up-sent
+A shout that tore Hell's concave, and beyond
+Frighted the reign of Chaos and old Night.
+All in a moment through the gloom were seen
+Ten thousand banners rise into the air,
 
-<div class="panel" id="consult">
-
-<h2>/consult</h2>
-
-<p>We help with project planning at any stage of the process, whether a half articulated idea or the next phase of a competitive national grant. We work with faculty and students on projects of any scale, from classroom assignments to independent studies, from semester-long projects to multi-year, multi-institutional endeavors. Among other areas, we have expertise in data management, web development and design, data visualization, text analysis and project management.</p>
-
-<!--     History 99 Final Project / END</p>
- -->
-</div>
-
-<div class="panel" id="connect">
-
-<h2>/connect</h2>
-
-<p>We connect faculty and students with the people and resources, both on and off campus. We work closely with ITS, student centers, academic departments and others and will either provide ourselves or help find the expertise and infrastructure necessary for most projects, regardless of department, regardless of apparent simplicity or complexity.
-</p>    
-<!--     Columbia University / University of Pennsylvania / Navajo Technical University / CLIR / TriColleges / The Library Company</p>
- -->
- </div>
-
-<div class="panel" id="instruct">
-
-<h2>/instruct</h2>
-
-<p>We provide technical and critical instruction for specific tools and pieces of software as well as more general best practices. We work with classes, project teams, individual students and faculty, staff members, independent studies and faculty seminars.</p>
-    
-<!--     END / Feminist Media / BarrioEdPHL / Victorian Literature</p>
- --></div>
-
-<div class="panel" id="manage">
-
-<h2>/manage</h2>
-
-<p>For projects that already have committed support, we help assemble and manage teams to approach projects at a variety of sizes and shapes, from finding qualified students to setting up development environments and workflows for collaboration.
-</p>    
-    <!-- Black Liberation 1969 Digital Archive / Navajo Verb Generator / END</p> -->
-</div>
-
-<div class="panel" id="build">
-
-<h2>/build</h2>
-
-<p>Depending on the project and resource availability, we may also be available to offer custom development. When we are able, we like to encourage projects that are ambitious or experimental or that have specific requirements that do not easily fit into existing platforms.
-</p>
-<!--     Black Liberation 1969 Digital Archive / Navajo Verb Generator / Visualizing Translations</p>
- --></div>
+Interested? <a class="email" href="mailto:contact@keystonedh.network">
+krowten.hdenotsyek@tcatnoc</a>

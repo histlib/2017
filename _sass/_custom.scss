@@ -5,17 +5,25 @@ header.site-header {
 header.site-header a.site-title {
   font-weight: 700;
   letter-spacing: -.1rem;
-  color: $red;
+  color: $dark-blue;
   display: block;
   margin-left: 0;
   font-size: 2 * $h2;
 
   & span#home { 
+      text-align: center;
       font-size: 4 * $h2;  
       -webkit-transition: font-size .3s;
       -moz-transition: font-size .3s;
       -o-transition: font-size .3s;
       transition: font-size .3s;
+
+      & img {
+        // text-align: center;
+        display: inline-block;
+        border: 1px solid $yellow;
+
+      }
   }
 
   @media screen and (min-width: $viewport-medium) {
@@ -27,7 +35,7 @@ header.site-header .site-nav {
 
   a:hover{
     border-bottom: none;
-    background-color: $red;
+    background-color: $dark-blue;
     opacity: .8;
 
     h4, h2 {
@@ -59,26 +67,16 @@ header.site-header .site-nav {
 
 .page .h2 { padding-top: 3.5 * $h2; }
 
-.panel {
+div.measure.home{
   // height: 50vh;
-  // border-bottom: 1px solid $red;
-  h2 { padding-top: 5 * $h2; }
+  // border-bottom: 1px solid $dark-blue;
+  padding-top: 3.5 * $h2;
+
+  h1:first-of-type { text-align: center; }
 }
 
 .panel:last-child {
   border-bottom: none;
-}
-
-.panel#definition {
-
-  height: 100vh;
-  padding-top: 1.5 * $h2;
-
-  h2 { padding-top: 0; }
-
-  #services {
-    margin-top: 3 * $h2;
-  }
 }
 
 .emphasis {
@@ -91,29 +89,9 @@ header.site-header .site-nav {
     bottom: 0;
     right: 0;
     font-size: $h1;
-    color: $red;
+    color: $dark-blue;
     margin-right: 1rem;
     display: none;
-}
-
-#services {
-    padding: 0;
-  li{
-    display: inline-block;
-    margin-right: 1em;
-    color: $red;
-  }
-  li:before {
-    content:"";
-  }
-  a:link {
-    text-decoration: underline;
-    color: $red;
-  }
-  a:hover {
-    text-decoration: none;
-    color: $dark-gray;
-  }
 }
 
 @media screen and (max-width: $viewport-small) {
@@ -127,14 +105,12 @@ header.site-header .site-nav {
     }
   }
 
-  .panel, .panel#definition {
+  .panel {
 
     border-bottom: none;
     height: 60vh;
     padding-top: 0;
   }
-
-  .panel#definition #services { margin-top: $h2; }
 
   .page .h2 { padding-top: 0; }
 }
@@ -178,13 +154,24 @@ header.site-header .site-nav {
 
 .button-red {
   @extend .button-blue;
-  background-color: $red;
+  background-color: $dark-blue;
 }
 
 .button-red:hover {
-  border: 1px solid $red;
+  border: 1px solid $dark-blue;
 }
 
 .mb2 {
   margin-top: 2*$h1;
+}
+
+header .social-icons div.social-icons {
+  text-align: center;
+  padding-top: 0;
+}
+
+header .social-icons div.social-icons a{
+  font-size: $h1;
+  color: darken($yellow,5%);
+  display: inline-block;
 }
