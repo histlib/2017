@@ -39,8 +39,10 @@ $(function(){
 
         if ( currTop > 70 ){
             $('.site-title span').addClass('little');
+            $('header .social-icons').addClass('little');
         } else {
             $('.site-title span').removeClass('little')
+            $('header .social-icons').removeClass('little')
         }
 
         if (currTop > panelHeight) {
