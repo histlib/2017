@@ -3,7 +3,7 @@ layout: page
 id: home
 ---
 
-# July 12-14, 2017<br/>@ [The Chemical Heritage Foundation](https://www.chemheritage.org/)
+# July 12-14, 2017 @ [The Chemical Heritage Foundation](https://www.chemheritage.org/)
 
 <div class="site-nav">{% include navigation.html %}</div>
 <br/>
