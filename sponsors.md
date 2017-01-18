@@ -2,6 +2,7 @@
 layout: default
 title: sponsors
 id: sponsors
+tags: page
 ---
 
 - [![Haverford College](../media/logo-haverford.png)](https://www.haverford.edu/)
