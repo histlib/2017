@@ -5,15 +5,12 @@
 
       <span id="{{ page.id }}">
 
-      <img src="{{ "media/keystonedh-keystone.svg" | absolute_url }}" height="72px"/>
-      <img src="{{ "media/keystonedh-text.svg" | absolute_url }}" height="56px"/>
-      <img src="{{ "media/keystonedh-2017.svg" | absolute_url }}" height="56x"/>
+      <img src="{{ "media/keystonedh-keystone.svg" | absolute_url }}" />
+      <img src="{{ "media/keystonedh-text.svg" | absolute_url }}" />
+      <img src="{{ "media/keystonedh-2017.svg" | absolute_url }}" />
 
       </span></a>
-      <nav class="site-nav">
-        {% include navigation.html %}
-      </nav>
-      <div class="clearfix"></div>
+
       {% if site.show_social_icons %}
         {% include social_links.html %}
       {% endif %}

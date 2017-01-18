@@ -1,5 +1,3 @@
 {% for page in site.pages %}
-    {% if page.tags %}
-    <a href="{{ page.url | relative_url }}"><h4>{{ page.title }}</h4></a>
-    {% endif %}
+    <a href="{{ page.url | relative_url }}"><h2>{{ page.title }}</h2></a>
 {% endfor %}

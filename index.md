@@ -3,10 +3,9 @@ layout: page
 id: home
 ---
 
-<a href="" id="nav-arrow">^</a>
-
 # July 12-14, 2017<br/>@ [The Chemical Heritage Foundation](https://www.chemheritage.org/)
 
+<div class="site-nav">{% include navigation.html %}</div>
 <br/>
 
 From Egypt marching, equalled with one stroke

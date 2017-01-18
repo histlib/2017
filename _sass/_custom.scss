@@ -8,14 +8,15 @@ header.site-header {
         color: $dark-blue;
         width: 100%;
         text-align: center;
+        height: 1.5 * $h2;
+
+        & span img {
+            height: $h2; 
+            vertical-align: middle;
+        }
     }
 
-    & span#home {
-        padding-top: .75 * $h2;
-        line-height: $h2;
-    }
-
-    & span#home img { 
+    & span#home img {
 
       -webkit-transition: height .3s;
       -moz-transition: height .3s;
@@ -24,76 +25,81 @@ header.site-header {
     }
 
     & .social-icons a.fa { 
-
-      text-align: center;
-      -webkit-transition: font-size .3s;
-      -moz-transition: font-size .3s;
-      -o-transition: font-size .3s;
-      transition: font-size .3s;
+        font-size: 1.5 * $h2;
+        text-align: center;
+        -webkit-transition: font-size .3s;
+        -moz-transition: font-size .3s;
+        -o-transition: font-size .3s;
+        transition: font-size .3s;
     }
+}
 
-    & span#home {
+header .social-icons div.social-icons {
+  text-align: center;
+  padding-top: 0;
+}
 
-        display: block;
-        width: 100%;
-        font-size: 4 * $h2;
-        & img { vertical-align: middle; }
-    }
-
+header .social-icons div.social-icons a{
+  font-size: $h1;
+  color: darken($yellow,5%);
+  display: inline-block;
 }
 
 .home header.site-header {
-  @media screen and (min-width: $viewport-medium) {
-    & a.site-title span#home.little img{ height: $h2;}
-    & div.social-icons.little a.fa { font-size: 1.5 * $h2; }
-}
-}
 
-header.site-header .site-nav {
-    border: 1px solid $yellow;
+    & .site-title {
+        height: auto;
+    }
 
-    a:hover{
-        border-bottom: none;
-        background-color: $dark-blue;
-        opacity: .8;
+    & span#home {
+        display: block;
+        width: 100%;
+        padding-top: .75 * $h2;
 
-        h4, h2 {
-          color: #fff; text-shadow: none;
-      }
-  }
+        & img { height: $h1; padding: .5rem; }
+        & img:first-of-type { height: 1.5 * $h1; }
+    }
 
-  a span:first-child {
-    font-family: Allegreya;
-    font-style: italic;
-    vertical-align: super;
-    text-transform: lowercase;
-    border: none;
+    & div.social-icons a.fa {
+        font-size: 2 * $h2;
+    }
+
+    @media screen and (min-width: $viewport-medium) {
+        & a.site-title span#home.little img{ height: $h2;}
+        & div.social-icons.little a.fa { font-size: 1.5 * $h2; }
+    }
 }
 
-a span:nth-child(2) {
-    display: inline-block;
-    font-size: $h2 * 1.2;
-    transform: rotate(7deg);
-    vertical-align: sub;
-    margin: 0 -.1rem;
+.home .site-nav {
+    text-align: center;
+    & a { display: inline-block; }
 }
 
-a span:nth-child(3) {
-    vertical-align: sub;
-    text-transform: lowercase;
-}
+div.site-wrap div.post {
+    padding-top: 2 * $h1;
+
+    & h2.page-title {
+        text-align: center;
+    }
 }
 
-div.home article{
+div.home .post{
 
   h1 { text-align: center; }
   h1 a { color: $dark-blue; background-image: none; }
   h1 a:hover { color: lighten($dark-blue,20%);}
-  h1:first-of-type { padding-top: 3.5 * $h1; }
+  // h1:first-of-type { padding-top: 3.5 * $h1; }
+
 }
 
-.panel:last-child {
-  border-bottom: none;
+div.sponsors {
+    & li {
+        min-height: 100px;
+    }
+
+    & li img {
+        width: 150px;
+    }
 }
 
 .emphasis {
@@ -113,8 +119,6 @@ div.home article{
 
 @media screen and (max-width: $viewport-small) {
 
-  .panel {
-
     h2 { padding-top: 5 * $h2; }
 
     p {
@@ -122,15 +126,7 @@ div.home article{
   }
 }
 
-.panel {
-
-    border-bottom: none;
-    height: 60vh;
-    padding-top: 0;
-}
-
 .page .h2 { padding-top: 0; }
-}
 
 .email {
   direction:rtl;
@@ -143,6 +139,7 @@ div.home article{
 
   h3 {
     margin: $h1 0 $h2 0;
+    }
 }
 
 p {
@@ -160,9 +157,8 @@ li {
 }
 
 li:before {
-    content: "/  ";
+    // content: "/  ";
     font-weight: 600;
-}
 }
 
 .post-header {
@@ -180,15 +176,4 @@ li:before {
 
 .mb2 {
   margin-top: 2*$h1;
-}
-
-header .social-icons div.social-icons {
-  text-align: center;
-  padding-top: 0;
-}
-
-header .social-icons div.social-icons a{
-  font-size: $h1;
-  color: darken($yellow,5%);
-  display: inline-block;
 }
