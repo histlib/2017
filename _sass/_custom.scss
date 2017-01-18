@@ -93,13 +93,26 @@ div.home .post{
 }
 
 div.sponsors {
+
+    & ul {
+        padding-top: 1rem;
+        text-align: center;
+    }
+
     & li {
-        min-height: 100px;
+        display: inline-block;
+        width: 30%;
+        height: 150px;
     }
 
     & li img {
-        width: 150px;
+        width: 200px;
     }
+
+    & li a {
+        background-image: none;
+    }
+
 }
 
 .emphasis {
