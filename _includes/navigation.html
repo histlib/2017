@@ -1,3 +1,5 @@
 {% for page in site.pages %}
-    <a href="{{ page.url | relative_url }}"><h2>{{ page.title }}</h2></a>
+    {% if page.id != 'home' %}
+    <a href="{{ page.url | site.github.url }}"><h2>{{ page.title }}</h2></a>
+    {% endif %}
 {% endfor %}
