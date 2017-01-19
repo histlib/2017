@@ -17,10 +17,12 @@ Conference Organizing Committee
 - Andrew Janco, Haverford College
 - Nabil Kashyap, Swarthmore College
 - Camilla MacKay, Bryn Mawr College
-- Cat Lu, Chemical Heritage Foundation
+- Cathleen Lu, Chemical Heritage Foundation
+- Rebecca Ortenberg, Chemical Heritage Foundation
 - Alicia Peaker, Bryn Mawr College
 - Dot Porter, University of Pennsylvania
 - Beth Seltzer, Bryn Mawr College
+- Matt Shoemaker, Temple University
 - John Theibault, PhillyDH
 - Lindsay Van Tine, University of Pennsylvania & Swarthmore College
 - Roberto Vargas, Swarthmore College
