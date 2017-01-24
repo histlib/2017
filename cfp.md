@@ -6,7 +6,7 @@ tags: page
 ---
 
 <br/>
-Keystone DH is currently inviting submissions on all aspects of using and studying computation and digital networked technologies within the interpretive context of the humanities--especially those considering the role of communities of collaboration and faceted teamwork across disciplines within this area of scholarly inquiry.
+Keystone DH is currently inviting submissions on all aspects of using and studying digital computation within the interpretive context of the humanities--especially those considering the role of communities of collaboration and faceted teamwork across disciplines within this area of scholarly inquiry.
 <br/>
 
 ## Complete the [Submission Form](https://goo.gl/forms/4UEJxLsn8XatkC773){:target="_blank"} by Deadline March 1, 2017
