@@ -156,6 +156,10 @@ div.sponsors {
     }
 }
 
+.hidden {
+  display: none;
+}
+
 p {
   color: $dark-gray;
   font-size: $h3;
@@ -190,4 +194,13 @@ li:before {
 
 .mb2 {
   margin-top: 2*$h1;
+}
+
+.keynote img {
+  float: left;
+  padding: .5rem 1rem 0 0;
+}
+
+.keynote p {
+  font-size: $h3 * .70;
 }
