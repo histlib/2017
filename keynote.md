@@ -1,7 +1,7 @@
 ---
 layout: default
 title: keynote
-id: hidden
+id: keynote
 tags: page
 ---
 
@@ -11,7 +11,7 @@ tags: page
 
 <img src="../media/Lauren_Klein_small.jpg">
 
-Professor Lauren Klein will explore how carework and codework resonate in a digital humanities context. Carework often refers to the subset of feminized reproductive labor undertaken out of a sense of compassion or responsibility for others, rather than with a goal of monetary gain. While codework, according to Alan Sondheim, is characterized by “the computer stirring into the text, and the text stirring the computer.” Thinking about digital tools in terms of codework, we can more fully account for the carework involved in their creation, as well as in the creation of the archives that, in designing our tools, we seek to more fully understand.
+Professor Lauren Klein’s talk will introduce two concepts, carework  and  codework, that strongly resonate in a digital humanities context. Carework most commonly refers to the subset of feminized reproductive labor that is undertaken out of a sense of compassion with, or responsibility for others, rather than with a goal of monetary gain. Codework, a term coined by Alan Sondheim, describes the genre of electronic literature that mixes computer code with natural language. According to Sondheim, codework is characterized by “the computer stirring into the text, and the text stirring the computer.” In applying the concept of codework to DH, this talk will explore how we might facilitate the creation of digital tools for stirring into the archive, while also allowing the archive to stir the tools. Professor Klein will argue, moreover, that by thinking about digital tools in terms of codework, we can more fully account for the carework involved in their creation, as well as in the creation of the archives that, in designing our tools, we seek to more fully understand.
 
 <br />
 
