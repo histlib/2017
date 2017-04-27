@@ -9,7 +9,9 @@ id: home
 <div class="site-nav">{% include navigation.html %}</div>
 <br/>
 
-[Registration is now live!](https://www.eventbrite.com/e/keystone-dh-2017-tickets-33716730649) :wave: Logistical information and preliminary schedule will be available soon.
+[Conference registration is now open!](https://www.eventbrite.com/e/keystone-dh-2017-tickets-33716730649)
+
+Logistical information and preliminary schedule will be available soon.
 
 We are thrilled to announce our 2017 keynote presentation will be delivered by **Lauren Klein**, Assistant Professor in the School of Literature, Media, and Communication and director of the Digital Humanities Lab at Georgia Tech.
 
