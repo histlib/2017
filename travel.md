@@ -7,7 +7,7 @@ tags: page
 
 ## Accommodations
 
-There is a block of rooms at [the Franklin Hotel](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Keystone%20DH%20Organizing%20Committee%20Meeting%5EPHLPR%60kdhkdhc%60189.00%60USD%60false%604%607/12/17%607/14/17%606/12/17&app=resvlink&stop_mobi=yes) reserved at a conference rate. In addition, there are scores of options for staying nearby if you need other accommodations. **Given the usual summer demand during tourist season we encourage you to book ahead.**
+There is a block of rooms at [the Franklin Hotel](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Keystone%20DH%202017%5EPHLPR%60KDHKDHA%7CKDHKDHC%60189.00%60USD%60false%602%607/12/17%607/14/17%606/12/17&app=resvlink&stop_mobi=yes) reserved at a conference rate. In addition, there are scores of options for staying nearby if you need other accommodations. **Given the usual summer demand during tourist season we encourage you to book ahead.**
 
 ## Travel
 
