@@ -1,6 +1,6 @@
 ---
 layout: default
-title: hotel & travel
+title: "hotel & travel"
 id: travel
 tags: page
 ---
