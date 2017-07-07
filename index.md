@@ -9,11 +9,9 @@ id: home
 <div class="site-nav">{% include navigation.html %}</div>
 <br/>
 
-### Preliminary schedule is now up!
+[Registration is still open ...](https://www.eventbrite.com/e/keystone-dh-2017-tickets-33716730649)
 
-[Register today](https://www.eventbrite.com/e/keystone-dh-2017-tickets-33716730649)
-
-We are thrilled to announce our 2017 keynote presentation will be delivered by **Lauren Klein**, Assistant Professor in the School of Literature, Media, and Communication and director of the Digital Humanities Lab at Georgia Tech.
+We look forward to seeing you next week! This site will be updated as we get more information up about visiting Philadelphia and logistics. Meanwhile, do let us know if you have any questions about attending: <a class="email" href="mailto:contact@keystonedh.network">krowten.hdenotsyek@tcatnoc</a>
 
 Now in its third year, Keystone DH is an annual conference and a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic.
 
@@ -37,7 +35,3 @@ Conference Organizing Committee
 - Lindsay Van Tine, University of Pennsylvania & Swarthmore College
 - Roberto Vargas, Swarthmore College
 - Mike Zarafonetis, Haverford College
-
-
-Interested? <a class="email" href="mailto:contact@keystonedh.network">
-krowten.hdenotsyek@tcatnoc</a>
