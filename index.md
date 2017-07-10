@@ -11,7 +11,7 @@ id: home
 
 [Registration is still open ...](https://www.eventbrite.com/e/keystone-dh-2017-tickets-33716730649)
 
-We look forward to seeing you next week! This site will be updated as we get more information up about visiting Philadelphia and logistics. Meanwhile, do let us know if you have any questions about attending: <a class="email" href="mailto:contact@keystonedh.network">krowten.hdenotsyek@tcatnoc</a>
+We look forward to seeing you on Wednesday! This site will be updated as we get more information up about visiting Philadelphia and logistics. Meanwhile, do let us know if you have any questions about attending: <a class="email" href="mailto:contact@keystonedh.network">krowten.hdenotsyek@tcatnoc</a>
 
 Now in its third year, Keystone DH is an annual conference and a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic.
 
