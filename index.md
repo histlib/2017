@@ -13,7 +13,7 @@ We look forward to seeing you on Wednesday! This site will be updated as we get 
 
 Now in its third year, Keystone DH is an annual conference and a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic.
 
-We are committed to cultivating a safe and inclusive safe. Please read our [code of conduct](../code).
+We are committed to cultivating a safe and inclusive safe. Please read our [code of conduct](../code/).
 
 <p class="hidden">We are excited to announce that this year's Keystone DH will be held at the Chemical Heritage Foundation in Philadelphia. Now in its third year, Keystone DH is an annual conference and a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic. Recognizing how DH scholarship in practice necessarily bridges conventional academic distinctions, we invite contributions from across the field, including faculty researchers, unaffiliated scholars, librarians, technologists, artists and critical-makers.
 </p>
