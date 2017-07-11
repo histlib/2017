@@ -5,6 +5,8 @@ id: dining
 tags: page
 ---
 
+<br/>
+
 There is no shortage of eating or drinking within reach of CHF! Here are a few options for dinners, lunches and coffee particularly close by.
 
 ## **Restaurants**
@@ -37,7 +39,7 @@ There is no shortage of eating or drinking within reach of CHF! Here are a few o
 | Wedge + Fig                | New American/Cheese Bistro                                          | 160 N. 3rd Street     | 0.3                       | $$   | no                | vegetarian     | 
 | Knead Bagels               | Bagels/Sandwiches                                                   | 725 Walnut Street     | 0.4                       | $    | no                | yes            | 
 | El Fuego                   | Chipotle-style Burritos                                             | 723 Walnut Street     | 0.4                       | $    | no                | vegetarian     | 
-| Morimoto                   | Japanese                                                            | 723 Chestnut Street   | 0.4                       | $$$$ | yes               | no             | 
+| Morimoto                   | Japanese                                                            | 723 Chestnut Street   | 0.4                       | \$$$$ | yes               | no             | 
 | Pizzeria Stella            | Pizza/Italian                                                       | 420 S. 2nd Street     | 0.4                       | $$   | no                | vegetarian     | 
 | Talula's Garden            | New American                                                        | 210 W. Washington Sq. | 0.4                       | $$$  | yes               | vegetarian     | 
 | Tamarind                   | Thai                                                                | 117 South St.         | 0.5                       | $$   | yes               | vegetarian     | 
