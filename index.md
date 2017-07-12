@@ -11,7 +11,7 @@ id: home
 
 # WELCOME to **#KEYDH** *!*
 
-We are so thrilled you could join us. For more information about this year's conference please visit our schedule and conference information pages.
+We are so thrilled you could join us. For more information about this year's conference please visit our schedule and FAQ pages.
 
 Now in its third year, Keystone DH is an annual conference and a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic.
 
