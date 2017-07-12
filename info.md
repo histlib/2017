@@ -29,7 +29,7 @@ Beverages and light snacks will be available on the second floor throughout the 
 
 ## Session guidelines?
 
-Community Google Docs are set up for each session -- URL's are available through the schedule interface under the session description.
+Community Google Docs are set up for each session -- URL's are available through the [schedule]({{ '/schedule' | prepend: site.github.url }}) under the session description.
 
 Slides from presenters who would like to share will be available after the conference. 
 
@@ -41,7 +41,7 @@ Great question!
 
 - **7/12** Reception in the CHF garden 6:30-8:30 pm. Please join us for refreshments and snacks after the keynote.
 - **7/13** [Dine around sign up sheets](https://goo.gl/NDSKej) will be available physically and electronically throughout the day on Thursday.
-- **7/14** Local tour sign up sheets will be available Throughout the day on Thursday and Friday.
+- **7/14** Local tour sign up sheets will be available throughout the day on Thursday and Friday.
 - If there is interest after the conference, hosts have generously agreed to lead small groups on informal tours of:
 - **Temple University Digital Scholarship Center** with Matt Shoemaker, Librarian and Coordinator of Digital Scholarship Service Development
 - **College of Physicians of Philadelphia Historical Medical Library** (home of the Mutter Museum) with Tristan Dahn, Digital Projects Librarian
