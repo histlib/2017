@@ -23,7 +23,7 @@ Please be mindful of attendees' wishes in posting images and, of course, giving 
 
 Sessions will be held in the Ullyot Room of the Chemical Heritage Foundation near the entrance as well as upstairs, on the northwest corner of the second floor, in the Franklin Room. Accessible bathrooms are available on both floors.
 
-Beverages and light snacks will be available in both Ullyot room and on the second floor throughout the day.
+Beverages and light snacks will be available in both Ullyot Rooms and on the second floor throughout the day.
 
 ## Session guidelines?
 
