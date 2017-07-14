@@ -13,7 +13,7 @@ id: home
 
 We are so thrilled you could join us. For more information about this year's conference please visit our schedule and FAQ pages.
 
-Please help us make next year's even better by filling out this (incredibly brief) [feedback form](https://goo.gl/forms/Ohe5xdhFOyW9zY102).
+**Please help us make next year's even better by filling out this (incredibly brief) [feedback form](https://goo.gl/forms/Ohe5xdhFOyW9zY102).**
 
 Now in its third year, Keystone DH is an annual conference and a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic.
 
