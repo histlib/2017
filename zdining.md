@@ -7,7 +7,7 @@ tags: page
 
 <br/>
 
-There is no shortage of eating or drinking within reach of CHF! Here are a few options for dinners, lunches and coffee particularly close by.
+Dining options near the conference and conference hotels.
 
 ## **Restaurants**
 
@@ -62,12 +62,3 @@ There is no shortage of eating or drinking within reach of CHF! Here are a few o
 | La Colombe Coffee                       | Coffee & Tea            | 100 S. Independence Mall West | 0.3                       | $    |                                 |  | 
 | United By Blue Coffeehouse and Clothier | Coffee & Tea            | 144 N. 2nd Street             | 0.3                       | $$   |                                 |  | 
 | Magpie                                  | Pies                    | 1622 South Street             | 1.3                       | $$   |                                 |  | 
-
-## **Beer Gardens**
-
-|                      | Cuisine                    | Address                       | Distance from CHF (miles) | Cost |  |  | 
-|---------------------------|------------------------------------|-------------------------------|---------------------------|------|--|--| 
-| Old City Beer Garden      | Beer Garden                        | 240 Market Street             | 0.08                      | $    |  |  | 
-| Independence Beer Garden  | Beer Garden                        | 100 S. Independence Mall West | 0.3                       | $-$$ |  |  | 
-| Spruce Street Harbor Park | Waterfront Park w/ Food & Beverage | 121 N. Columbus Blvd          | 0.4                       | $-$$ |  |  | 
-
