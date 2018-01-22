@@ -17,8 +17,7 @@ Paper presentations will be 15 minutes in length, while panel discussions and wo
 
 Please submit your name, email address, title, and type of your proposed presentation, and a proposal of 200-300 words in the form linked below. Paper abstracts should specify the thesis, methodology, and conclusions. If you are proposing an interactive presentation or workshop, please include in the description a requested time length for the session. The proposal deadline is March 9, 2018, and proposers will be notified by April 1, 2018.  
 <br/>
-
-We will be offering a number of student bursaries in support of presenting at the conference that will cover the cost of two nights lodging at one of the conference hotels. Note that only students who are submitting a presentation/demo/showcase/workshop proposal will be considered. To be considered for a student bursary, click on that option at the end of the submission form. We will notify recipients as part of the proposal acceptance process. 
+We will be offering a number of student bursaries in support of presenting at the conference that will cover the cost of two nights lodging at one of the conference hotels. Note that only students who are submitting a proposal will be considered. To be considered for a student bursary, click on that option at the end of the submission form. We will notify recipients as part of the proposal acceptance process. 
 <br/>
 
 Questions about submissions or about the conference in general can be directed to John Russell, jer308@psu.edu 
