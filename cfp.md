@@ -7,12 +7,26 @@ tags: page
 
 <br/>
 
-## __DEADLINE EXTENDED__: Complete the [CFP Form](https://goo.gl/forms/4UEJxLsn8XatkC773){:target="_blank"} by __March 15, 2017__
+## Complete the [Proposal Submission Form](https://survey.az1.qualtrics.com/jfe/form/SV_egMH4JJ5NMXuDDn){:target="_blank"} by __March 9, 2018__ ##
 
-Keystone DH is currently inviting submissions on all aspects of using and studying digital computation within the interpretive context of the humanities--especially those considering the role of communities of collaboration and faceted teamwork across disciplines within this area of scholarly inquiry.
+The Keystone Digital Humanities conference (http://keystonedh.network/2018/) invites proposals for papers, interactive demonstrations, workshops, or panel discussions for its annual meeting, which will be held at the Pennsylvania State University, July 16-18, 2017. 
 <br/>
 
+Paper presentations will be 15 minutes in length, while panel discussions and workshops must be proposed by all participants and not exceed one hour in length. 
 <br/>
-We welcome proposals from faculty researchers, unaffiliated scholars, students, librarians, technologists, artists and critical-makers. Presentations may take the form of **Short Papers** (15 min), **Panel Discussions** or **Roundtables**, **Interactive Presentations**, **Workshops**, or **Lightning Round Project Demos**.
 
-We will be offering a number of student bursaries in support of presenting at the conference. This will include a conference fee waiver and some funds to partially cover travel and living expenses. Note that only students who are submitting a proposal will be considered. 
+Please submit your name, email address, title, and type of your proposed presentation, and a proposal of 200-300 words in the form linked below. Paper abstracts should specify the thesis, methodology, and conclusions. If you are proposing an interactive presentation or workshop, please include in the description a requested time length for the session. The proposal deadline is March 9, 2018, and proposers will be notified by April 1, 2018.  
+<br/>
+
+We will be offering a number of student bursaries in support of presenting at the conference that will cover the cost of two nights lodging at one of the conference hotels. Note that only students who are submitting a presentation/demo/showcase/workshop proposal will be considered. To be considered for a student bursary, click on that option at the end of the submission form. We will notify recipients as part of the proposal acceptance process. 
+<br/>
+
+Questions about submissions or about the conference in general can be directed to John Russell, jer308@psu.edu 
+<br/>
+ 
+Conference Organizing Committee:
+- John Russell 
+- Aaron Mauro 
+- Kevin Conaway 
+- Kira Homo 
+- Emily Hagen
