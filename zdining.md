@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "dining"
-id: dining
+id: hidden
 tags: page
 ---
 
