@@ -7,10 +7,10 @@ tags: page
 
 ## Accommodations
 
-There is a block of rooms at [the Franklin Hotel](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Keystone%20DH%202017%5EPHLPR%60KDHKDHA%7CKDHKDHC%60189.00%60USD%60false%602%607/12/17%607/14/17%606/12/17&app=resvlink&stop_mobi=yes) reserved at a conference rate. In addition, there are scores of options for staying nearby if you need other accommodations. **Given the usual summer demand during tourist season we encourage you to book ahead.**
+There is a block of rooms at [The Nittany Lion Inn]() and [The Atherton Hotel]() reserved at a conference rate; details about how to make a reservation forthcoming. There are a couple of other hotels within walking distance of campus and a number of other options within driving distance or on bus lines. **Given summer demand during new student orientation, we encourage you to book ahead.**
 
 ## Travel
 
-This year’s conference will be held at the Chemical Heritage Foundation, located in Old City Philadelphia. For more information on travel to and from the conference, please visit [CHF's travel page](https://www.chemheritage.org/visit/directions)
+This year’s conference will be held at Penn State University, located in State College, PA. For more information on travel to and from the Penn State University Park campus, please visit [PSU's Visitors and Neighbors page](http://www.psu.edu/visitors-and-neighbors)
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="500" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Chemical Heritage Foundation, Chestnut Street, Philadelphia, PA, United States, &t=&z=14&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>embed google map <a href="http://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{overflow:hidden;height:500px;width:500px;}.gmap_canvas {background:none!important;height:500px;width:500px;}</style></div>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="500" height="500" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12081.972318223457!2d-77.86555495!3d40.7951573!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89cea6247f5d0291%3A0xad3e8e9b56e48269!2sPenn+State+University!5e0!3m2!1sen!2sus!4v1516645340172" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="http://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{overflow:hidden;height:500px;width:500px;}.gmap_canvas {background:none!important;height:500px;width:500px;}</style></div>
